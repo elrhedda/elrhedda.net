@@ -1,5 +1,5 @@
 ---
-date: 2017-09-28T08:00:00+06:00
+date: 2017-10-25
 title: Publications
 slug: publications
 menu: main
