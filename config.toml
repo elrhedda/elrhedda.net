@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Fellow human being with a Ph.D."
+description = "A fellow human being with a Ph.D."
 title404 = "Hic sunt castores!"
 
 [params.assets]
